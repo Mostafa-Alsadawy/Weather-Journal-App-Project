@@ -1,0 +1,16 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "This project get temp from external api via zip code. stores a note about it with the date of the note,and display that on screen ( this project is a task to get udacit certfication )",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mostafa Alsadawy"
+}

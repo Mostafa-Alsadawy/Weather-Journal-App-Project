@@ -7,6 +7,11 @@ this project is one of the tasks to get Udacity professional frontend web develo
 ## Weather API used:
 The wheather api used is from https://openweathermap.org/api.
 
+## Important notes:
+* I used the starter files provided by Udacity.
+* if I used code form other source I will mention this in the code.
+
+
 ## author : 
     Mostafa Alsadawy Front end developer form Egypt.
 

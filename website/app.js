@@ -2,7 +2,7 @@
 let errorElemnt  ;
 let errorChilds= [];
 // Personal API Key for OpenWeatherMap API
-const apiKey = "0769066e2899e34bdf4e76fe07183523";
+const apiKey = "write your apiKey here";
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather?zip=";
 
 // Create a new date instance dynamically with JS
